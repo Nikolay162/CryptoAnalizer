@@ -1,4 +1,4 @@
-package ru.javarush.komlev.exception;
+package ru.javarush.komlev.cryptoanalizer.exception;
 
 public class AppException extends RuntimeException {
 }
